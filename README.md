@@ -9,6 +9,6 @@ LAB 3 - https://github.com/Teju-Tejaswini-001/AIML-2025/blob/main/AIML_LAB_3.ipy
 
 LAB 4 - https://github.com/Teju-Tejaswini-001/AIML-2025/blob/main/AI_LinearRegression.ipynb
 
-LAB 5 - 
+LAB 5 - https://github.com/Teju-Tejaswini-001/AIML-2025/blob/main/AIML_LAB_5.ipynb
 
 LAB 6 - 
