@@ -11,4 +11,6 @@ LAB 4 - https://github.com/Teju-Tejaswini-001/AIML-2025/blob/main/AI_LinearRegre
 
 LAB 5 - https://github.com/Teju-Tejaswini-001/AIML-2025/blob/main/AIML_LAB_5.ipynb
 
-LAB 6 - 
+LAB 6 - https://github.com/Teju-Tejaswini-001/AIML-2025/blob/main/KNN_LAB_6.ipynb
+
+LAB 7 - 
