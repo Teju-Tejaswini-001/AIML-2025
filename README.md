@@ -14,3 +14,5 @@ LAB 5 - https://github.com/Teju-Tejaswini-001/AIML-2025/blob/main/AIML_LAB_5.ipy
 LAB 6 - https://github.com/Teju-Tejaswini-001/AIML-2025/blob/main/KNN_LAB_6.ipynb
 
 LAB 7 - 
+
+LAB 8 - 
