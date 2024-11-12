@@ -16,3 +16,5 @@ LAB 7 - https://github.com/Teju-Tejaswini-001/AIML-2025/blob/main/AIML_LAB_7.ipy
 LAB 8 - https://github.com/Teju-Tejaswini-001/AIML-2025/blob/main/AI%26ML_LAB_8.ipynb
 
 LAB 9 - https://github.com/Teju-Tejaswini-001/AIML-2025/blob/main/AI%26ML_LAB_9.ipynb
+
+LAB 10 - https://github.com/Teju-Tejaswini-001/AIML-2025/blob/main/AI%26ML_LAB_10.ipynb
